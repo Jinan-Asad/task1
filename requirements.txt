@@ -1,0 +1,7 @@
+google-genai
+faiss-cpu
+python-dotenv
+PyPDF2
+python-docx
+pandas
+langchain-text-splitters
